@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate Computer Science graduate with experience in Full-Stack Development and interest in Low Level Programming.</h3>
+<h3 align="center">Driven Computer Science Graduate with a Specialization in Diverse Software Solutions and a Passion for Low-Level Programming.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/brkosebay](https://github.com/brkosebay)
 
